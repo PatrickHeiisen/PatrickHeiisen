@@ -1,4 +1,4 @@
-### Olá !! Eu sou Patrick Correia ✌️
+### Patrick Correia ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-correia-378320218)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrickcorreiah)
